@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>My Less Than Awesome Webpage</title>
+   </head>
+   <body>
+      <h2>Mike Clarkson<h2>
+      <ul>
+         <li>one</li>
+         <li>two</li>
+         <li>three</li>
+      </ul>
+      <img ref="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRb6RYGv2sOdPTxTZLzC4RiqrgNxqmDWgW33o-WiOapApeSCQ-A">A soccer star</img> 
+      <p>That's all she wrote</p>
+   </body>
+</html>
